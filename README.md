@@ -1,104 +1,100 @@
 # Niharika Sri Parasa  
-![Profile Picture](https://via.placeholder.com/150)
+---
+
+## **About Me**  
+I am a dedicated researcher and engineer with expertise in developing AI-driven systems to address challenges in cognitive science, language accessibility, and policy modeling. My mission is to contribute to societal progress by leveraging technology and data-driven insights.  
+
 ---
 
 ## **Technical Expertise**  
-- **Programming Languages & Tools**:  
-  Python, R, Pytorch, KNIME, UiPath, Druid, Tableau, Protege, Neo4j, AWS, Nifi, HTML, JavaScript, Databases, Docker Containers  
-- **Patterns & Practices**:  
-  Problem Solving, Data Modeling, Graph algorithms,  
-- **Other Proficiencies**:  
-  Market Research, Customer Discovery, Domain Ecosystems, Stakeholder Analysis, Business Models  
-
----
-
-## **Research Interests**  
-Machine Learning | Cognitive Sciences | Natural Language Processing | Social Sciences  
-
----
-
-## **Education**  
-- **M.S. (Research) in Data Sciences**  
-  International Institute of Information Technology, Bangalore (_July 2023_)  
-- **B.Tech. in Civil Engineering**  
-  Velagapudi Siddhartha Ramakrishna Engineering College (_May 2016_)  
+- **Programming Languages & Tools**: Python, R, PyTorch, KNIME, UiPath, Druid, Tableau, Neo4j, AWS, Nifi, HTML, JavaScript, Docker Containers  
+- **Specializations**: Natural Language Processing, Machine Learning, Cognitive Sciences, Data Modeling, Graph Algorithms  
+- **Other Proficiencies**: Object-Oriented Programming, Market Research, Business Models, Stakeholder Analysis  
 
 ---
 
 ## **Professional Experience**  
 
 ### **AI Resident**  
-**AI4Bharat, IIT Madras** (_Dec 2023 - Present_)  
-- Leveraging iterative pseudo-labeling techniques to build labeled corpora for audio datasets.  
-- Evaluating ASR systems for Indic languages.  
+**AI4Bharat, IIT Madras** (_December 2023 - Present_)  
+- Implementing **iterative pseudo-labeling techniques** for building labeled corpora for Indic audio datasets.  
+- Conducting evaluation of **ASR systems** to support multiple Indic languages.  
 
-### **Data Science Fellow**  
-**Data Science For Social Good, LMU Munich** (_Aug 2023 - Sep 2023_)  
-- Developed a web application to assist the Fire Department, Munich in determining areas covered by hydrants.  
+### **Research Fellow**  
+**Data Science for Social Good, LMU Munich** (_August 2023 - September 2023_)  
+- Developed the **HydroXplorer** application to assist the Munich Fire Department in mapping hydrant accessibility and coverage.  
 
 ### **Project Associate**  
-**Karnataka Data Lake** (_Sep 2022 - July 2023_)  
-- Gained hands-on experience in Data Engineering and Data Modeling for Open Government Data.  
-- Designed architecture for a Big Data-driven Policy Support System.  
-- Co-authored 3 publications in **BASE ’21**, **BASE ’22**, and **IJCAI '23**.  
+**Karnataka Data Lake** (_September 2022 - July 2023_)  
+- Designed and developed architecture for a **Big Data-driven Policy Support System** for Open Government Data.  
+- Co-authored three research papers presented at international conferences such as **BASE '21**, **BASE '22**, and **IJCAI '23**.  
 
 ### **RCB Intern**  
-**HP R&D** (_Feb 2022 - June 2022_)  
-- Developed Terraform modules for infrastructure dependencies.  
-- Configured Splunk alerts for 19+ microservices built over Internet Print Protocol.  
+**HP R&D** (_February 2022 - June 2022_)  
+- Developed **Terraform modules** for infrastructure dependencies.  
+- Configured and deployed **Splunk alerts** for 19+ microservices utilizing the Internet Print Protocol.  
 
 ### **Software Engineer**  
-**Tech Mahindra** (_Aug 2016 - Aug 2019_)  
-- Led a team of 7 UiPath developers to build virtual bots, reducing manual efforts.  
-- Achieved certified expertise in end-to-end development and deployment of Robotic Process Automation (RPA) projects using UiPath.  
-- Received the **‘Pat on the Back’ Award** for exceptional contributions.  
+**Tech Mahindra** (_August 2016 - August 2019_)  
+- Led a team of 7 to develop **Robotic Process Automation (RPA)** solutions using UiPath, optimizing workflows and reducing manual efforts.  
+- Awarded the **‘Pat on the Back’ Award** for exceptional contributions to RPA projects.  
 
 ---
 
 ## **Key Projects**  
 
 ### **Automatic Riddle Generation for Concept Attainment**  
-[Publication](https://arxiv.org/pdf/2310.18290.pdf) | [GitHub](https://github.com/niharikasriparasa/Automatic_Riddle_Generation)  
-- Developed an automated riddle generation system using Natural Language Processing and Deep Learning.  
-- Enhanced learner motivation through interactive and engaging conceptual riddles.  
-
----
+[GitHub Repository](https://github.com/niharikasriparasa/Automatic_Riddle_Generation) | [Publication](https://arxiv.org/pdf/2310.18290.pdf)  
+- Designed a system to generate conceptual riddles using **Natural Language Processing** and **Deep Learning** to enhance learning engagement.  
 
 ### **HydroXplorer Application**  
-[GitHub](https://github.com/niharikasriparasa/DSSG_HydrOXplorer)  
-- Built a web application for Munich firefighters to identify:  
+[GitHub Repository](https://github.com/niharikasriparasa/DSSG_HydrOXplorer)  
+- Built a web application for the **Munich Fire Department** to identify:  
   - Accessible zones using hydrant locations or natural water sources.  
-  - Nearby water sources for firefighting.  
-  - Elevation disparities between fire locations and water sources.  
-
----
+  - Elevation differences between fire sites and water sources for logistical planning.  
 
 ### **Advaita - Semi-Automatic Subtitle Generator**  
-[GitHub]() | [Website](https://advaita-research.blogspot.com/?m=1) | [Demo]()  
-- Conceptualized **Advaita**, meaning "Oneness" in Sanskrit, to break language barriers in content consumption.  
-- Aimed to enable non-English-speaking audiences to access high-quality content through regional subtitles.  
+[Website](https://advaita-research.blogspot.com/?m=1) | [Demo](#)  
+- Developed **Advaita**, a subtitle generator aimed at bridging language barriers and empowering non-English-speaking audiences to access high-quality content.  
 
 ---
 
 ## **Publications**  
 
 1. **Automatic Riddle Generation for Concept Attainment**  
-   Parasa, N.S., Diwan, C., & Srinivasa, S. (2023).  
-   *International Conference on Artificial Intelligence in Education.* [arXiv](https://arxiv.org/pdf/2310.18290.pdf)  
+   *Parasa, N.S., Diwan, C., & Srinivasa, S.*  
+   International Conference on Artificial Intelligence in Education, 2023.  
+   [Read the Paper](https://arxiv.org/pdf/2310.18290.pdf)  
 
 2. **Big Data Management for Policy Support in Sustainable Development**  
-   Bassin, P., Parasa, N. S., et al. (2021).  
-   *International Conference on Big Data Analytics.*  [Springer](https://link.springer.com/chapter/10.1007/978-3-030-96600-3_1)
+   *Bassin, P., Parasa, N. S., et al.*  
+   International Conference on Big Data Analytics, 2021.  
 
 3. **Ontology-Augmented Data Lake System for Policy Support**  
-   Kulkarni, A., Parasa, N. S., et al. (2022).  
-   *International Conference on Big Data Analytics.*  [Springer](https://link.springer.com/chapter/10.1007/978-3-031-28350-5_1)
+   *Kulkarni, A., Parasa, N. S., et al.*  
+   International Conference on Big Data Analytics, 2022.  
 
 4. **Modeling Policy Interventions for Sustainable Development**  
-   Rachuri, S. N., Parasa, N. S., et al. (2023).  
-   *IJCAI '23 Proceedings.*  [researchgate](https://www.researchgate.net/profile/Srinath-Srinivasa/publication/373088433_Modeling_the_Impact_of_Policy_Interventions_for_Sustainable_Development/links/64db5aba78e40b48bd4c77db/Modeling-the-Impact-of-Policy-Interventions-for-Sustainable-Development.pdf)
+   *Rachuri, S. N., Parasa, N. S., et al.*  
+   Proceedings of IJCAI'23, 2023.
+
+For more visit [Google Scholar](https://scholar.google.com/citations?user=mzcqotsAAAAJ&hl=en&oi=ao)
 
 ---
 
-## **Connect with Me**  
-[GitHub](https://github.com/niharikasriparasa) | [LinkedIn](https://linkedin.com/in/niharikasriparasa) | [Website](https://advaita-research.blogspot.com/?m=1)  
+## **Education**  
+- **M.S. (Research) in Data Sciences**  
+  International Institute of Information Technology, Bangalore (_July 2023_)  
+  - *Thesis*: Ontology-Driven Policy Modeling for Sustainable Development  
+
+- **B.Tech. in Civil Engineering**  
+  Velagapudi Siddhartha Ramakrishna Engineering College (_May 2016_)  
+
+---
+
+## **Contact**  
+Feel free to reach out for collaboration, consultation, or discussions on AI and Machine Learning.  
+
+- **GitHub**: [github.com/niharikasriparasa](https://github.com/niharikasriparasa)  
+- **LinkedIn**: [linkedin.com/in/niharikasriparasa](https://linkedin.com/in/niharikasriparasa)  
+- **Website**: [advaita-research.blogspot.com](https://advaita-research.blogspot.com/?m=1)  
